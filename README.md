@@ -2,8 +2,6 @@
 
 A visually appealing and animated pie timer created with HTML, CSS, and a touch of JavaScript. This pie timer provides a circular countdown animation, perfect for various time-sensitive applications. 
 
-![Pie Timer Demo](demo/pie-timer-demo.gif)
-
 ## Features
 
 - **Dynamic Animation:** The pie timer dynamically animates, providing an engaging and intuitive visual representation of the countdown.
@@ -16,7 +14,9 @@ Explore the interactive [browser demo](https://hadep275.github.io/Pie-Timer/) to
 
 ## Video Demo
 
-For a detailed walkthrough and demonstration, check out the [video demo link](#) showcasing the features and functionality of the pie timer.
+For a detailed walkthrough and demonstration, check out the [video demo link](https://github.com/hadep275/Pie-Timer/assets/65734173/8c018f06-f45b-4934-ba4d-3f9a81046e91) showcasing the features and functionality of the pie timer.
+
+[screen-capture (9).webm](https://github.com/hadep275/Pie-Timer/assets/65734173/8c018f06-f45b-4934-ba4d-3f9a81046e91)
 
 ## How to Use
 
