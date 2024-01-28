@@ -23,7 +23,7 @@ For a detailed walkthrough and demonstration, check out the [video demo link](#)
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/hadep275/Pie-Timer
+    git clone https://github.com/hadep275/Pie-Timer.git
     ```
 
 2. Open the `index.html` file in your preferred web browser.
