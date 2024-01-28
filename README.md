@@ -50,7 +50,7 @@ Feel free to customize the appearance and behavior of the pie timer by modifying
 
 ## Contributors
 
-- [Your Name]
+- [hadep275](https://github.com/hadep275)
 
 ## License
 
