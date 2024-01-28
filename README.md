@@ -12,7 +12,7 @@ A visually appealing and animated pie timer created with HTML, CSS, and a touch 
 
 ## Live Demo
 
-Explore the interactive [browser demo](https://github.com/hadep275) to experience the mesmerizing countdown animation of the pie timer.
+Explore the interactive [browser demo](https://hadep275.github.io/Pie-Timer/) to experience the mesmerizing countdown animation of the pie timer.
 
 ## Video Demo
 
